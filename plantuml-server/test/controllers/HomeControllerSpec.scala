@@ -1,5 +1,6 @@
 package controllers
 
+import jp.gr.java_conf.saka.plantuml.controllers.HomeController
 import org.scalatestplus.play._
 import org.scalatestplus.play.guice._
 import play.api.test._
